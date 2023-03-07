@@ -1,0 +1,2 @@
+/What happens if you invoke a value method (i.e. a method that returns a result) and don't do anything with the returned result; that is, if you don't assign the returned result to a variable or use it as part of a larger expression?
+/The method is invoked but gets basically thrown away because its not used.
